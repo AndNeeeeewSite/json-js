@@ -1,0 +1,23 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "task1": "parcel task1.html",
+    "task2": "parcel task2.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndNeeeeewSite/json-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndNeeeeewSite/json-js/issues"
+  },
+  "homepage": "https://github.com/AndNeeeeewSite/json-js#readme",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.13.3"
+  }
+}
