@@ -63,4 +63,4 @@ addBut.addEventListener('click', function() {
     }
 });
 
-//# sourceMappingURL=task1.3ff7e89e.js.map
+//# sourceMappingURL=task2.3ff7e89e.js.map
